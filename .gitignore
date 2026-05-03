@@ -1,0 +1,28 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment directories
+env/
+venv/
+.venv/
+
+# MacOS files
+.DS_Store
+
+# VS Code workspace settings
+.vscode/
+
+# Data and model artifacts
+*.pkl
+*.joblib
+*.h5
+*.hdf5
+
+# Logs
+*.log
+
