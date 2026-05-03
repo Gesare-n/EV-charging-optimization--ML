@@ -25,6 +25,7 @@ Unregulated EV charging causes peak-load spikes on Kenya's grid. Kenya's evening
 ---
 
 ## Repository Structure
+
 ├── EV_Charging_Optimization_Final.ipynb  # Main analysis notebook (CRISP-DM)
 ├── ev_charging_data.csv                  # Dataset (Kaggle — see Data Source below)
 ├── presentation.pdf                      # Non-technical stakeholder slides
