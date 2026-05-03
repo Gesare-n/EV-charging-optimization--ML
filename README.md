@@ -81,7 +81,7 @@ probabilities = model.predict_proba(X_new)
 ## Data Source
 
 **Dataset:** EV Charging & Grid Optimization Data — Kaggle  
- [https://www.kaggle.com/datasets/YOUR-DATASET-LINK-HERE](https://www.kaggle.com/datasets/) ← **replace with your actual Kaggle URL**
+(https://www.kaggle.com/datasets/mjawad17/ev-charging-and-grid-optimization-data) ← 
 
 | Property | Value |
 |---|---|
