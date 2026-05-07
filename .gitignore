@@ -26,3 +26,5 @@ venv/
 # Logs
 *.log
 
+#data
+* .csv
